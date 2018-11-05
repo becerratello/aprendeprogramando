@@ -2,7 +2,7 @@
 
 > Under construction
 
-[![Build Status](https://travis-ci.org/ProgramoErgoSum/programoergosum.svg?branch=master)](https://travis-ci.org/ProgramoErgoSum/programoergosum)
+[![Build Status](https://travis-ci.org/ProgramoErgoSum/aprendeprogramando.svg?branch=master)](https://travis-ci.org/ProgramoErgoSum/aprendeprogramando)
 
 
 ## Version
@@ -23,7 +23,7 @@ Symfony 4.1.7
 Clone this repository
 
 ```sh
-$ git clone https://github.com/ProgramoErgoSum/programoergosum
+$ git clone https://github.com/ProgramoErgoSum/aprendeprogramando
 ```
 
 Install application with composer and yarn
